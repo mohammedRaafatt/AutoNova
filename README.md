@@ -137,18 +137,6 @@ You can extend this project in many directions, for learning or portfolio purpos
 
 ---
 
-## 8. Contributing 🤝
-
-Contributions and customizations are welcome. You can:
-
-- Refine styling, typography, and component layouts.
-- Add more brands or expand existing brand pages with new sections.
-- Improve accessibility (semantic HTML, ARIA roles, keyboard navigation, color contrast).
-
-If you build on top of AutoNova, feel free to share your own fork or deployment.
-
----
-
 ## 9. Connect With Me 🌐
 
 <p align="center">
@@ -170,6 +158,14 @@ If you build on top of AutoNova, feel free to share your own fork or deployment.
 </p>
 
 ---
+
+<p align="center">
+  🌟 <em>Thanks for visiting my project — let’s build something amazing together!</em> 🌟
+</p>
+
+<p align="center">
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp" alt="Footer Banner"/>
+</p>
 
 <p align="center">
   🌟 <em>Thanks for checking out AutoNova — enjoy the ride!</em> 🌟
